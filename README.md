@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 2nd Year undergraduate currently studying at IIIT Allahabad.
+Greetings! I'm a third-year student at IIITA, currently serving as the Web Development Coordinator at GeekHaven, our college's technical society. Passionate about technology, I thrive on the challenges of leading web development projects and organizing workshops. Check out my GitHub repositories to explore my work and let's collaborate to make a mark in the world of technology! 🌐💻✨
 
 
 ## 🌐 Socials:
